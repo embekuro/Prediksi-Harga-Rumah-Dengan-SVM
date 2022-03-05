@@ -1,6 +1,5 @@
 # Mengimpor library
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 import time
 from sklearn.model_selection import train_test_split, GridSearchCV
